@@ -1,0 +1,111 @@
+.container {
+    width: 768px;
+    margin: 0 auto;
+}
+
+.pizza-wrapper {
+    /*box-shadow: 5px 5px 20px rgba(155, 155, 155, .5);*/
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.pizza-wrapper:hover {
+    box-shadow: 5px 5px 20px rgba(155, 155, 155, .5);
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    font-family:  Impact, Helvetica, sans-serif;
+
+}
+
+
+
+.pizza-wrapper .pizza-name {
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.input-big {
+    width: 100%;
+    border-radius: 2px;
+    height: 20px;
+    font-size: 1.2em;
+}
+
+.btn {
+    font-size: 1.2em;
+    display: block;
+    margin: 0 auto;
+    background-color: rgba(155, 155, 155, 0.5);
+    color: white;
+}
+
+.btn .disabled {
+    background-color: rgba(155, 155, 155, 0.2);
+    color: rgba(155, 155, 155, 0.2);
+    cursor: not-allowed;
+}
+
+.error-text {
+    font-weight: bold;
+    color: rgb(200, 50, 50);
+    padding: 10px 0px;
+}
+
+.fa {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.about-wrapper {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 20px;
+}
+
+.cartItemWrapper {
+    box-shadow: 5px 5px 20px rgba(155, 155, 155, .5);
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    font-family: arial;
+}
+
+.cartItemImage {
+    height: 120px;
+    width: 120px;
+    float: left;
+}
+
+.cartCokeItemImage {
+    height: 120px;
+    width: 50px;
+    float: left;
+}
+
+.container ul {
+    list-style-type: none;
+}
+
+.rmBtn {
+    margin: -12;
+}
+
+
+.nav-link {
+  padding:10px;
+
+}
+
+.nav-link:hover {
+  box-shadow: 5px 5px 20px rgba(155, 155, 155, .5);
+  border-style: dotted;
+}
+
+.checkoutCont {
+    display: none;
+}

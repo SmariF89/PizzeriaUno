@@ -1,0 +1,2 @@
+export const GET_ALL_PIZZAS = 'GET_ALL_PIZZAS';
+export const GET_PIZZA_DETAIL = 'GET_PIZZA_DETAIL';
