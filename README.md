@@ -1,7 +1,7 @@
 # PizzeriaUno
 A simple React application representing a fictional pizza restaurant's homepage with a pizza menu, offer menu and a cart.
 
-NOTE: I did not implement the Node.js backend web service which is located in ther server folder. I only implemented this React application which utilises the web service.
+NOTE: I did not implement the Node.js backend web service which is located in the server folder. I only implemented the React application which utilises the web service.
 
 ## Instructions
 
